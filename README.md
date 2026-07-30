@@ -1,2 +1,1 @@
-# Git Workflow Assignment - Feature A
-
+# Git Workflow Assignment - Feature A and Feature B
